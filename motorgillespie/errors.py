@@ -1,0 +1,2 @@
+class NetForceError(Exception):
+    pass
