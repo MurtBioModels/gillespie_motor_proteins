@@ -32,6 +32,8 @@ This Python project contains the package **motorgillespie** which contains the f
 - **initiate_motors.py** contains the functions to create motor objects to be used in gillespie_simulation.py.
 - **variable_loops.py** contains a function that calls initiate_motors.py and gillepsie_simulation.py.
 
+See **simulation_tool.png**
+
 The scripts in the **end_report** folder are examples I used during my project that use 
 the package.
 
